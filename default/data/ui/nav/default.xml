@@ -1,0 +1,12 @@
+<nav search_view="search" color="#e8488b">
+	<view name="tpot_honeypots" default="true" />
+	<view name="cowrie" />
+	<view name="dionaea" />
+	<view name="mailony" />
+	<view name="glastopf" />
+	<view name="honeytrap" />
+	<view name="rdpy" />
+	<view name="vnclowpot" />
+	<view name="search" />
+</nav>
+
